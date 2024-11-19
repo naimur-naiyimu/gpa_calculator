@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: gpa_calculator_bd
+Version: 0.1
+Summary: A package to calculate GPA, CGPA, and average marks
+Home-page: https://github.com/naimur-naiyimu/gpa_calculator_bd
+Author: Your Name
+Author-email: naimur.naiyimu@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+

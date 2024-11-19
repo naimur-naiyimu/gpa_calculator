@@ -8,4 +8,4 @@ def calculate_gpa(grades, credits):
     """
     total_points = sum(grade * credit for grade, credit in zip(grades, credits))
     total_credits = sum(credits)
-    return total_points / total_credits if total_credits != 0 else 0
+    return round((total_points / total_credits),2) if total_credits != 0 else 0

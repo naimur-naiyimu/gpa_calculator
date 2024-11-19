@@ -8,4 +8,4 @@ def calculate_cgpa(gpa_list, credit_list):
     """
     total_points = sum(gpa * credits for gpa, credits in zip(gpa_list, credit_list))
     total_credits = sum(credit_list)
-    return total_points / total_credits if total_credits != 0 else 0
+    return round((total_points / total_credits),2) if total_credits != 0 else 0

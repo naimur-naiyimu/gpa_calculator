@@ -5,4 +5,4 @@ def calculate_average(marks):
     :param marks: List of marks (e.g., [85, 90, 78])
     :return: Average marks
     """
-    return sum(marks) / len(marks) if marks else 0
+    return round((sum(marks) / len(marks)),2) if marks else 0

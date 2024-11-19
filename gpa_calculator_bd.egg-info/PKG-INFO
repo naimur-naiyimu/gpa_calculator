@@ -1,7 +1,7 @@
 Metadata-Version: 2.1
 Name: gpa_calculator_bd
-Version: 0.1
-Summary: A package to calculate GPA, CGPA, and average marks
+Version: 0.2
+Summary: A package to calculate GPA, CGPA, and average marks with rounding to 2 decimal places
 Home-page: https://github.com/naimur-naiyimu/gpa_calculator_bd
 Author: Your Name
 Author-email: naimur.naiyimu@gmail.com
