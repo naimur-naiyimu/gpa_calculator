@@ -4,7 +4,7 @@ This package allows users to calculate GPA, CGPA, and average marks easily.
 
 ## Installation
 
-* [ ] You can install the package via PIP: ``pip install gpa_calculator``
+* [ ] You can install the package via PIP: ``pip install gpa_calculator_bd``
 
 ## Usage
 
